@@ -1,0 +1,28 @@
+{
+  "name": "atomic-modules",
+  "version": "1.0.0",
+  "description": "My atomic modules repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Webschool-io/Atomic-Modules.git"
+  },
+  "keywords": [
+    "atomic",
+    "modules",
+    "design",
+    "mongoose",
+    "hybrid",
+    "suissa",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Webschool-io/Atomic-Modules/issues"
+  },
+  "homepage": "https://github.com/Webschool-io/Atomic-Modules#readme"
+}
